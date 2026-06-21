@@ -1,2 +1,2 @@
 Student GPA calculator
- Student Information Processor Using Variables and Data Types 
+ Student Information Processor Using Variables and Data Types  
